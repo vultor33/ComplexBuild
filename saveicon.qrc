@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>save-128.png</file>
+        <file>lock.png</file>
+    </qresource>
+</RCC>
